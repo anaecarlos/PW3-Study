@@ -1,0 +1,17 @@
+
+.Imagem
+{
+  width: 200px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  border-width: 500px;
+  border-radius: 10px;
+}
+
+.card{
+  background-color:floralwhite;
+  border-color:darkgrey;
+  border-width: 1px;
+  border-radius: 10px;
+}

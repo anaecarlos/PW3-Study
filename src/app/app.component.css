@@ -1,12 +1,15 @@
+*{
+  display: flex;
+}
+
 
 .Imagem
 {
   width: 200px;
-  height: 250px;
-  display: flex;
-  justify-content: center;
+  height: 260px;
   border-width: 500px;
   border-radius: 10px;
+  margin-top: 100px;
 }
 
 .card{
@@ -14,4 +17,30 @@
   border-color:darkgrey;
   border-width: 1px;
   border-radius: 10px;
+}
+
+.card-text{
+  font-family: Arial;
+  text-align:left;
+  font-size:20px;
+  margin-top: 130px;
+  margin-left: 40px;
+}
+
+.botao{
+  width: 70px;
+  height: 60px;
+}
+
+
+.card-title{
+  text-align: center;
+  font-family: Arial;
+  font-size: 30px;
+  
+}
+
+.botao1{
+  width: 55px;
+  height: 45px;
 }
